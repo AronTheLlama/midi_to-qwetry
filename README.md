@@ -8,8 +8,8 @@ Linux Arch based:
 sudo pacman -S rtmidi xdotool base-devel
 
 Linux Debian based (apt):
-sudo apt install rtmidi xdotool base-devel
 
+sudo apt install librtmidi-dev xdotool build-essential
 
 # TO COMPILE:
 
