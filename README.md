@@ -18,3 +18,4 @@ g++ -o midi_translator midi_to_qwerty.cpp -lrtmidi -lpthread
 # NOTE:
 
 This piece of junk i made might not work on every distrobution - TESTED ON: endeavouros (arch)
+If you want to compile yourself then download the c++ file
